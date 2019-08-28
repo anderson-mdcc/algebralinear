@@ -6,3 +6,10 @@
 ### http://wwwp.fc.unesp.br/~arbalbo/Iniciacao_Cientifica/sistemaslineares/teoria/1_Gauss_com_Pivoteamento_Parcial.pdf
 ## 3- LU e Cholesky
 ## 4- ??
+
+## Aula 27/08/2019
+### Assunto 1: ...
+####
+
+### Assunto 2: Encontrar parâmetros para encontrar reta que melhor satisfaz nuvem de dados
+#### professor falou de conceitos de norma e como encontrar valores que minimizam o erro
